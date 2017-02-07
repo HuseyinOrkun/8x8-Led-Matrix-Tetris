@@ -1,0 +1,10 @@
+0.6
+2016.3
+Oct 10 2016
+19:46:48
+C:/Users/asus/Desktop/Bilkent 201/Cs 223/Project/TetrisFinal/TetrisFinal.sim/sim_1/behav/glbl.v,1476033524,verilog,,,,glbl,,,,,,,,
+C:/Users/asus/Desktop/Bilkent 201/Cs 223/Project/TetrisFinal/TetrisFinal.srcs/sim_1/new/TestBench.sv,1482959388,systemVerilog,,,,TestBench,,,,,,,,
+C:/Users/asus/Desktop/Bilkent 201/Cs 223/Project/TetrisFinal/TetrisFinal.srcs/sources_1/new/GenerateBlock.sv,1482956036,systemVerilog,,,,GenerateBlock,,,,,,,,
+C:/Users/asus/Desktop/Bilkent 201/Cs 223/Project/TetrisFinal/TetrisFinal.srcs/sources_1/new/PosCalc.sv,1482872108,systemVerilog,,,,PosCalc,,,,,,,,
+C:/Users/asus/Desktop/Bilkent 201/Cs 223/Project/TetrisFinal/TetrisFinal.srcs/sources_1/new/RowChecker.sv,1482959265,systemVerilog,,,,RowChecker,,,,,,,,
+C:/Users/asus/Desktop/Bilkent 201/Cs 223/Project/TetrisFinal/TetrisFinal.srcs/sources_1/new/TranslateToDisplay.sv,1482956727,systemVerilog,,,,TranslateToDisplay,,,,,,,,

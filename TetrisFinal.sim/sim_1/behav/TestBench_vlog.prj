@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  "../../../TetrisFinal.srcs/sources_1/new/GenerateBlock.sv"
+sv xil_defaultlib  "../../../TetrisFinal.srcs/sources_1/new/TranslateToDisplay.sv"
+sv xil_defaultlib  "../../../TetrisFinal.srcs/sources_1/new/RowChecker.sv"
+sv xil_defaultlib  "../../../TetrisFinal.srcs/sources_1/new/PosCalc.sv"
+sv xil_defaultlib  "../../../TetrisFinal.srcs/sim_1/new/TestBench.sv"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
